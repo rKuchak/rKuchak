@@ -24,7 +24,6 @@ Let's connect and collaborate on exciting projects! Feel free to reach out to me
 - [Linkedin](https://www.linkedin.com/in/rapharbk/)
 
 ##
-[![GitHub followers](https://img.shields.io/github/followers/rKuchak?label=Follow&style=social)](https://github.com/rKuchak)
 
 <!---
 rKuchak/rKuchak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
